@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Utility
+comment0.text=\n\ Utility\ methods\ to\ make\ things\ easier.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=num
+comment1.target=double\ round(long)
+comment2.params=num
+comment2.target=double\ round(double)
+numComments=3
